@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prims",
+            "request": "launch",
+            "mainClass": "prims",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "NQueens",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "FractionalKnapsack",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "GreedyActivitySelector",
+            "request": "launch",
+            "mainClass": "GreedyActivitySelector",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Quicksort",
+            "request": "launch",
+            "mainClass": "Quicksort",
+            "projectName": "ADA_ALGO_9470bdae"
+        }
+    ]
+}
