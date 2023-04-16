@@ -20,6 +20,7 @@ public class NQueens {
         }
     }
     
+    
     public boolean place(int k, int i) {
         for (int j = 1; j < k; j++) {
             if (x[j] == i || Math.abs(x[j] - i) == Math.abs(j - k)) {

@@ -16,6 +16,7 @@ public class GreedyActivitySelector {
         return A;
     }
     
+    
     public static void main(String[] args) {
         // int[] s =  {10, 1, 3, 5, 7, 8};
         // int[] f = {20, 2, 4, 6, 9, 12};
