@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrixChainMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixChainMultiplication",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "AssemblyLineScheduling",
+            "request": "launch",
+            "mainClass": "AssemblyLineScheduling",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "dijkstra",
+            "request": "launch",
+            "mainClass": "dijkstra",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "Kruskals",
+            "request": "launch",
+            "mainClass": "Kruskals",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
+            "name": "kruskals",
+            "request": "launch",
+            "mainClass": "kruskals",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
             "name": "prims",
             "request": "launch",
             "mainClass": "prims",
