@@ -75,7 +75,7 @@ class MultistageGraph {
         }
 
         System.out.println("Shortest path from " + source + " to " + sink + " has length " + dist[sink] + ":");
-        System.out.println(path);
+        System.out.println(path); 
 
         return dist[sink];
     }
