@@ -39,7 +39,7 @@ public class NQueens {
     
     public static void main(String[] args) {
         NQueens nq = new NQueens();
-        int n = 4; // number of queens
+        int n = 5; // number of queens
         nq.solve(n);
     }
 }

@@ -65,9 +65,9 @@ public class MatrixChainMultiplication {
     
     public static void main(String[] args) {
         //int[] p = {5, 4, 6, 2, 7};
-        // int[] p={28,36,45,5,8,10};
+         int[] p={28,36,45,5,8,10};
         //int[] p = {3,2,4,2,5};
-        int[] p={10,20,15,5,35,40,25};
+        //int[] p={10,20,15,5,35,40,25};
         matrixChainMultiplication(p);
     }
 }
