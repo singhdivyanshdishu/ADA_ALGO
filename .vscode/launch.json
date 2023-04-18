@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultistageGraph",
+            "request": "launch",
+            "mainClass": "MultistageGraph",
+            "projectName": "ADA_ALGO_9470bdae"
+        },
+        {
+            "type": "java",
             "name": "MatrixChainMultiplication",
             "request": "launch",
             "mainClass": "MatrixChainMultiplication",
